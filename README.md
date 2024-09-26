@@ -1,1 +1,1 @@
-## This is the repository for lotto-num-lotto
+## This is the repository for lotto-num-generator
